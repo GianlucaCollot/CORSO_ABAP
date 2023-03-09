@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_IM_ME_GUI_PO_IMPL</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Imp. class for BAdI imp. ZME_GUI_PO_IMPL</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>DYNP_DATA_PAI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Purchase Order Header Data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DYNP_DATA_PBO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Purchase Order Header Data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SUBSCREEN1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Name of a View</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

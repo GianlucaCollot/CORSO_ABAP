@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TTYP" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD40V>
+    <TYPENAME>ZBD00_ACADEMY23_T</TYPENAME>
+    <DDLANGUAGE>I</DDLANGUAGE>
+    <ROWTYPE>ZBD00_ACADEMY23</ROWTYPE>
+    <ROWKIND>S</ROWKIND>
+    <DATATYPE>STRU</DATATYPE>
+    <ACCESSMODE>T</ACCESSMODE>
+    <KEYDEF>D</KEYDEF>
+    <KEYKIND>N</KEYKIND>
+    <DDTEXT>Tipo tabella ZBD00_ACADEMY23</DDTEXT>
+   </DD40V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
